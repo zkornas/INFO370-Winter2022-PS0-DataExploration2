@@ -5,4 +5,4 @@ This problem set asks you to analyze real data, the gapminder dataset of world d
 
 ## You can view the full specification and problemset [here](https://github.com/zkornas/INFO370-Winter2022-PS0-DataExploration2/blob/main/ps02-descriptive-stats.pdf)!
 
-## You can view the full report [here](https://zkornas.github.io/INFO370-Winter2022-PS02-DataExploration/)
+## You can view the full report [here](https://zkornas.github.io/INFO370-Winter2022-PS02-DataExploration/)!
